@@ -1,6 +1,6 @@
 # ReadingAlone
 
-## Milestones Recording
+## Milestone Recording
 
 NameOfBook | StartTime | EndTime
 ---- | --- | ----
@@ -9,5 +9,6 @@ NameOfBook | StartTime | EndTime
 《喜鹊谋杀案》 |  | 2019/07/22 
 《人生海海》 | 2019/07/22 | 2019/07/26 
 《知乎客户端埋点流程、模型和平台技术》 | 2019/07/25 | 
-《2001：太空漫游》 |  | 
+《新名字的故事》 | 2019/07/27 | 2019/08/01 
+《离开的，留下的》 | 2019/08/01 |  
 
